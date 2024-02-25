@@ -22,3 +22,10 @@ tool available on https://m3.material.io/theme-builder#/custom is able
 generate/export theme files compatible with Jetpack Compose
 >
 > ### Color Converter : https://convertingcolors.com/
+
+### Custom Theming !!What it looks like!!
+> [!CAUTION]
+> delete [Theming.png](./Theming.png) before you run the project locally.
+<picture>
+<img alt="Shows an app that illustrate the custom theming concept in andriod app devlopment " src="https://github.com/SanjayKhatiChhetri/MaterialThemingAndriod/blob/main/Theming.png">
+</picture>
